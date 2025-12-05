@@ -1,8 +1,0 @@
-aws:
-  region: "eu-west-3"
-  s3_bucket: "data-pipeline-youtube"
-
-youtube:
-  api_key: "AIzaSyC0v_Qv2Xh0Q6yhM7eZmQOZdQ-c-Dw5GkE"
-  channel_id: "UCnz-ZXXER4jOvuED5trXfEA"
-  max_results: 1000
