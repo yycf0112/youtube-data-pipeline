@@ -80,12 +80,3 @@ youtube_data_pipeline_project/
 5. Launch Metabase using Docker and connect to Snowflake project
 6. Sync the schema and explore dashboards
 
----
-
-## Acknowledgements
-
-The initial Python extraction logic was adapted from this YouTube tutorial:  
-📹 [Python Project to Scrape YouTube using YouTube Data API | Analyze and Visualize YouTube data](https://youtu.be/SwSbnmqk3zY?si=MCuMuyiloGqE8Y32)
-
-All Snowflake loading, dbt transformations, and Metabase dashboarding were independently designed and implemented.
-
